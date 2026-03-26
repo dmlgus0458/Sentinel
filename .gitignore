@@ -1,0 +1,6 @@
+backend/
+frontend/
+*.env
+*.env.local
+__debug_bin
+*.exe
